@@ -61,5 +61,5 @@ if __name__ == '__main__':
     pizza = SmallPizza()
     pizza = Pepper(pizza)
     pizza = Cheese(pizza)
-    pizza = Cheese(pizza)
+    pizza = Chicken(pizza)
     print_pizza_to_ui(pizza)
